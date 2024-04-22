@@ -1,0 +1,7 @@
+Raghav,Raghav,1001,1,121500
+Rashmi,rashmi,1002,2,10000
+Rahul,rahul,1003,3,10000
+Pratham,ooad,1004,4,11000
+
+loan1001,loan1001,1001,1,121500
+loan1004,loan1004,1004,4,11000

@@ -1,0 +1,13 @@
+Minor                  Status           Frontend
+
+Login                  Done             Done
+Update password        Done             Done
+Edit Customer details  Done             Done
+MiniStatement          Done             Done
+
+Major                  Status           Frontend
+
+Withdraw               Done             Done
+Deposit                Done             Done
+Take Loan              Done             Done
+Transfer               Done             Done
